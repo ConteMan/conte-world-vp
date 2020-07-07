@@ -2,3 +2,7 @@
 node_modules
 .DS_Store
 .idea
+docs/views/.configs
+docs/views/.markdown
+docs/views/*/.Archive
+docs/views/*/.markdown
